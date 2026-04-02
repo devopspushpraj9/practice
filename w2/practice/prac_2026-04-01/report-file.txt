@@ -1,0 +1,48 @@
+--- Disk Check ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  2.3M  1.6G   1% /run
+/dev/nvme0n1p2  468G   18G  427G   4% /
+tmpfs           7.7G   26M  7.6G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        384K   97K  283K  26% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  1.1G  6.2M  1.1G   1% /boot/efi
+tmpfs           1.6G  124K  1.6G   1% /run/user/1000
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       2.1Gi        10Gi       368Mi       3.1Gi        13Gi
+Swap:          4.0Gi          0B       4.0Gi
+--- Top 5 Processes ---
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0  23440 14472 ?        Ss   18:17   0:03 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    18:17   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    18:17   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   18:17   0:00 [kworker/R-rcu_gp]
+root           5  0.0  0.0      0     0 ?        I<   18:17   0:00 [kworker/R-sync_wq]
+root           6  0.0  0.0      0     0 ?        I<   18:17   0:00 [kworker/R-kvfree_rcu_reclaim]
+root           7  0.0  0.0      0     0 ?        I<   18:17   0:00 [kworker/R-slub_flushwq]
+root           8  0.0  0.0      0     0 ?        I<   18:17   0:00 [kworker/R-netns]
+root          10  0.0  0.0      0     0 ?        I<   18:17   0:00 [kworker/0:0H-events_highpri]
+--- Disk Check ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  2.3M  1.6G   1% /run
+/dev/nvme0n1p2  468G   18G  427G   4% /
+tmpfs           7.7G   55M  7.6G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        384K   97K  283K  26% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  1.1G  6.2M  1.1G   1% /boot/efi
+tmpfs           1.6G  124K  1.6G   1% /run/user/1000
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       2.4Gi        10Gi       388Mi       3.1Gi        12Gi
+Swap:          4.0Gi          0B       4.0Gi
+--- Top 5 Processes ---
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0  23304 14468 ?        Ss   18:17   0:03 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    18:17   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    18:17   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   18:17   0:00 [kworker/R-rcu_gp]
+root           5  0.0  0.0      0     0 ?        I<   18:17   0:00 [kworker/R-sync_wq]
+root           6  0.0  0.0      0     0 ?        I<   18:17   0:00 [kworker/R-kvfree_rcu_reclaim]
+root           7  0.0  0.0      0     0 ?        I<   18:17   0:00 [kworker/R-slub_flushwq]
+root           8  0.0  0.0      0     0 ?        I<   18:17   0:00 [kworker/R-netns]
+root          10  0.0  0.0      0     0 ?        I<   18:17   0:00 [kworker/0:0H-events_highpri]
