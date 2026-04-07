@@ -1,0 +1,4 @@
+apple is red
+banana is yellow
+grapes are purple
+apple is sweet

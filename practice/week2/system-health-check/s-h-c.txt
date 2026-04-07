@@ -1,0 +1,22 @@
+---Disk Usage---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  3.1M  1.6G   1% /run
+/dev/nvme0n1p2  468G   19G  426G   5% /
+tmpfs           7.7G   31M  7.6G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        384K   97K  283K  26% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  1.1G  6.2M  1.1G   1% /boot/efi
+tmpfs           1.6G  120K  1.6G   1% /run/user/1000
+
+---Memory Check---
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       1.9Gi        11Gi       316Mi       2.5Gi        13Gi
+Swap:          4.0Gi          0B       4.0Gi
+
+---Top Processes---
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+pushpraj    2328  5.8  1.8 4909184 290520 ?      Ssl  15:11   1:52 /usr/bin/gnome-shell
+pushpraj    5160  1.8  1.7 1460107808 281916 ?   Sl   15:15   0:30 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=5077 --enable-crash-reporter=fbb3e16a-10e9-42f1-b953-48a6414c94b4, --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1775554843761459 --launch-time-ticks=294718556 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,334017221064827542,401703777261956483,2097152 --field-trial-handle=3,i,10510311603367750943,14111144371683829221,262144 --disable-features=EyeDropper --variations-seed-version=20260407-010038.166000-production --pseudonymization-salt-handle=7,i,15399695013123584453,11911393293149873405,4 --trace-process-track-uuid=3190708991934122588
+pushpraj    5068  1.6  2.3 51285404 381432 ?     SLl  15:15   0:27 /opt/google/chrome/chrome --profile-directory=Default --app-id=cadlkienfkclaiaibeoongdcgmdikeeg
+pushpraj    3240  1.3  0.3 709520 58204 ?        Ssl  15:11   0:25 /usr/libexec/gnome-terminal-server
+pushpraj    5119  0.9  1.1 51469584 185640 ?     Sl   15:15   0:15 /opt/google/chrome/chrome --type=gpu-process --ozone-platform=wayland --render-node-override=/dev/dri/renderD128 --crashpad-handler-pid=5077 --enable-crash-reporter=fbb3e16a-10e9-42f1-b953-48a6414c94b4, --change-stack-guard-on-fork=enable --gpu-preferences=UAAAAAAAAAAgAQAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --metrics-shmem-handle=4,i,10273143674219687451,1574730414200721599,262144 --field-trial-handle=3,i,10510311603367750943,14111144371683829221,262144 --disable-features=EyeDropper --variations-seed-version=20260407-010038.166000-production --pseudonymization-salt-handle=7,i,15399695013123584453,11911393293149873405,4 --trace-process-track-uuid=3190708988185955192

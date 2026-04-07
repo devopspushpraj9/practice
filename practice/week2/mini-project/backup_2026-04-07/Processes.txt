@@ -1,0 +1,7 @@
+---Top Processes---
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+pushpraj    6722  200  0.0  22424  4716 pts/0    R+   18:08   0:00 ps aux --sort=-%cpu
+pushpraj    2352  3.1  1.8 4777868 289688 ?      Ssl  16:57   2:14 /usr/bin/gnome-shell
+pushpraj    5550  0.6  1.8 1460109188 293612 ?   Sl   17:05   0:26 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=5434 --enable-crash-reporter=fbb3e16a-10e9-42f1-b953-48a6414c94b4, --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1775561184910729 --launch-time-ticks=567239907 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,17007906647030557976,8393008827540353209,2097152 --field-trial-handle=3,i,8828081208285039260,8039706526872631996,262144 --disable-features=EyeDropper --variations-seed-version=20260407-010038.166000-production --pseudonymization-salt-handle=7,i,7978875463590791815,1450251162146789518,4 --trace-process-track-uuid=3190708993808206286
+pushpraj    5425  0.4  2.3 51299188 370168 ?     SLl  17:05   0:16 /opt/google/chrome/chrome --profile-directory=Default --app-id=cadlkienfkclaiaibeoongdcgmdikeeg
+pushpraj    6496  0.2  0.3 3077272 53960 ?       Sl   18:01   0:01 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
