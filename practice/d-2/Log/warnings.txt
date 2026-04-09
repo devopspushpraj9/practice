@@ -1,0 +1,5 @@
+---WARNING in Log/log.txt---
+[2025-03-20 08:10] WARNING: CPU usage 85%
+[2025-03-20 08:25] WARNING: Disk almost full
+[2025-03-20 08:40] WARNING: Query took 4 seconds
+[2025-03-20 09:00] WARNING: Certificate warning
