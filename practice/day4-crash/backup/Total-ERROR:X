@@ -1,0 +1,5 @@
+find ERROR in backup/log.txt
+[2025-03-20 08:15] ERROR: Database connection lost
+[2025-03-20 08:35] ERROR: Invalid input data
+[2025-03-20 08:50] ERROR: File access denied
+[2025-03-20 09:10] ERROR: Network issue
