@@ -1,0 +1,18 @@
+---Cafe Racer Bikes---
+1. Royal_Enfield_Continental_GT_650
+2. Triumph_Thruxton_1200_RS
+3. Triumph_Thruxton_400
+4. BMW_R_12_nineT
+5. Husqvarna_Vitpilen_250
+6. Ducati_Scrambler_Cafe_Racer
+7. Kawasaki_Z650RS
+8. Kawasaki_Z900RS_Cafe
+9. Moto_Guzzi_V7_Stone_Corsa
+10. Keeway_SR_250
+11. TVS_Ronin
+12. Honda_CB350RS
+13. Yamaha_XSR155
+14. Zontes_GK350
+15. Norton_Commando_961
+16. Husqvarna_Vitpilen_401
+17. Atumobile_AtumVader

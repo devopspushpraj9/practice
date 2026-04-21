@@ -1,0 +1,13 @@
+---Adventure Bikes---
+1. Royal_Enfield_Himalayan_450
+2. KTM_390_Adventure
+3. BMW_G_310_GS
+4. Hero_XPulse_210
+5. Yamaha_Ténéré_700
+6. Honda_Africa_Twin
+7. Triumph_Tiger_900
+8. BMW_R_1300_GS
+9. Ducati_DesertX
+10. Suzuki_V-Strom_800DE
+11. Aprilia_Tuareg_660
+12. Harley-Davidson_Pan_America_1250
