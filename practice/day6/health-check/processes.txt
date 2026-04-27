@@ -1,0 +1,6 @@
+---TOP 5 PROCESSES---
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+pushpraj    7117  200  0.0  22292  4708 pts/0    R+   11:24   0:00 ps aux --sort=-%cpu
+pushpraj    3039  3.5  1.7 4817972 280856 ?      Rsl  11:14   0:21 /usr/bin/gnome-shell
+root        1296  1.5  0.2 2294516 44976 ?       Ssl  11:13   0:09 /snap/snapd/current/usr/lib/snapd/snapd
+pushpraj    4134  1.2  0.3 565564 55660 ?        Ssl  11:14   0:07 /usr/libexec/gnome-terminal-server

@@ -1,0 +1,9 @@
+---DISK-CHECK---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  2.8M  1.6G   1% /run
+/dev/nvme0n1p2  468G   25G  419G   6% /
+tmpfs           7.7G     0  7.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        384K   97K  283K  26% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  1.1G  6.2M  1.1G   1% /boot/efi
+tmpfs           1.6G  112K  1.6G   1% /run/user/1000
