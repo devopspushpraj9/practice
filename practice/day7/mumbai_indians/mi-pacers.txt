@@ -1,0 +1,9 @@
+---Mi_pacers---
+1: Jasprit_Bumrah
+2: Trent_Boult
+3: Deepak_Chahar
+4: Ashwani_Kumar
+5: Mohammad_Izhar
+6: Hardik_Pandya(All-rounder)
+7: Shardul_Thakur(All-rounder)
+8: Corbin_Bosch(All-rounder)

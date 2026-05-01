@@ -1,0 +1,15 @@
+---Mi_Batters---
+Rohit_Sharma Suryakumar_Yadav Tilak_Varma Ryan_Rickelton Sherfane_Rutherford
+
+---Mi_wicket_keepers---
+Quinton_de_Kock Ryan_Rickelton Robin_Minz
+
+---Mi_all_rounders---
+Hardik_Pandya Mitchell_Santner Will_Jacks Corbin_Bosch Raj_Angad_Bawa Shardul_Thakur Naman_Dhir
+
+---Mi_spin_bowlers---
+Mayank_Markande Mitchell_Santner(Spin-All-rounder) Allah_Ghazanfar Atharva_Ankolekar(Spin_All-rounder) Will_Jacks(Spin_All-rounder)
+
+---Mi_pacers---
+Jasprit_Bumrah Trent_Boult Deepak_Chahar Ashwani_Kumar Mohammad_Izhar Hardik_Pandya(All-rounder) Shardul_Thakur(All-rounder) Corbin_Bosch(All-rounder)
+
